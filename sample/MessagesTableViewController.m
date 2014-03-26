@@ -17,7 +17,7 @@
 #import <QuartzCore/QuartzCore.h>
 #import "CloudControllerHelper.h"
 #import "CloudEntity.h"
-#import "Constants.m"
+#import "Constants.h"
 #import "EditModeUITextView.h"
 #import "GTLMobilebackend.h"
 #import "MessagesTableViewController.h"
